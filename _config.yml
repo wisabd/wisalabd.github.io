@@ -12,16 +12,17 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "catppuccin_latte", "catppuccin_mocha"
+minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "catppuccin_latte", "catppuccin_mocha"
 
 # Site Settings
 locale                   : "en-US"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
-title                    : "Site Title"
+title                    : "Muhammad Wisal Abdullah | Research Software Dev | Data Analyst"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Muhammad Wisal Abdullah"
+description              : "Physicist (M.Sc., University of Bologna) working at the interface of generative machine learning and high-energy physics. Master’s thesis optimised a conditional WGAN-GP for ATLAS fast calorimeter simulation, improving the reduced 𝜒2 by 25% over the BoloGAN baseline while generating showers in under 70ms versus ∼10s for full GEANT4simulation. Currently ships production ML and analystics pipelines over million-record public-sector datasets. Research interests: generative modelling, statistical inference and surrogate
+simulation for HEP."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
